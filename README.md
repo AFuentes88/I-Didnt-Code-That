@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DevPowa
+- 👋 Hi, I’m @I Didn't Code That
 - 👀 This repository is (at this time) a first approach to GitHub and its capabilities
 - 🌱 I’m currently learning JS and PY
 
